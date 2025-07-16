@@ -45,7 +45,7 @@ function Home() {
         </div>
 
         <div className="mt-15">
-          <h1 className="text-4xl text-center">
+          <h1 className="text-4xl m-3  text-center">
             Let Me{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
               Introduce
