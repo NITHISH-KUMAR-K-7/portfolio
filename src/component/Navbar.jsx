@@ -104,7 +104,7 @@ function Navbar() {
             </Link>
             <li className="group flex items-center gap-1 text-xl mb-5 lg:mb-0 cursor-pointer">
               <a
-                href="/Nithish_kumar_K.doc (2).pdf"
+                href="/Nithish_kumar_K.doc.pdf"
                 download
                 onClick={HandleClick}
                 className="group flex items-center gap-1 text-xl mb-5 lg:mb-0 cursor-pointer"
