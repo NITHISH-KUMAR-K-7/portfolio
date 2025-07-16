@@ -57,7 +57,7 @@ function Skills() {
         <h1 className="text-3xl font-semibold font-serif text-center mb-10 text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
           Skills
         </h1>
-        <div className="grid grid-cols-2 px-6 m-2 md:grid-cols-3 xl:grid-cols-4 gap-5">
+        <div className="grid grid-cols-1 place-items-center sm:grid-cols-2 px-6 m-2 md:grid-cols-3 xl:grid-cols-4 gap-5">
           {Known_Skills.map((skill, index) => (
             <div
               key={index}

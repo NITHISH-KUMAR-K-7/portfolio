@@ -9,26 +9,31 @@ function Project() {
         SkillsUsed: "React Js, Tailwind CSS, JavaScript",
         ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Weather-Report",
       },
-        {
-          ProjectName: "Imdb-Clone",
-          SkillsUsed: "React Js, Tailwind CSS, JavaScript",
-          ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Imdb-Clone",
-        },
-        {
-          ProjectName: "Food-Delivery",
-          SkillsUsed: "React Js, Tailwind CSS, JavaScript",
-          ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Food-Delivery",
-        },
-        {
-          ProjectName: "Tic-Tac-Toe",
-          SkillsUsed: "React Js, Tailwind CSS, JavaScript",
-          ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Tic-Tac-Toe",
-        },
-        {
-          ProjectName: "Calculator ",
-          SkillsUsed: "React Js, Tailwind CSS, JavaScript",
-          ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Calculator",
-        },
+      {
+        ProjectName: "Imdb-Clone",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Imdb-Clone",
+      },
+      {
+        ProjectName: "Food-Delivery",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Food-Delivery",
+      },
+      {
+        ProjectName: "Tic-Tac-Toe",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Tic-Tac-Toe",
+      },
+      {
+        ProjectName: "Calculator",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Calculator",
+      },
+      {
+        ProjectName: "Portfolio",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/portfolio",
+      },
     ];
   return (
     <>
