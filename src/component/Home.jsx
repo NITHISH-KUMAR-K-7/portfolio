@@ -30,11 +30,11 @@ function Home() {
           <h1 className="text-4xl">
             I'm{" "}
             <span className="font-medium text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
-              Nithish kumar
+              Nithish kumar K
             </span>
           </h1>
           <h3 className=" mt-2 text-2xl font-medium text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
-            Frontend Developer
+           Full stack Developer | Frontend Developer
           </h3>
           <button
             onClick={handleHireMeClick}
@@ -54,7 +54,7 @@ function Home() {
           </h1>
           <div className="grid w-2/3 mt-10 mx-auto mb-30">
             <p className="text-xl font-medium text-gray-600 mb-3">
-              Developed 5+ frontend React.js applications using Tailwind CSS,
+              Developed full stack projects using React.js, Express.js, MySQL Database and 5+ frontend React.js applications using Tailwind CSS,
               focusing on responsive design, performance optimization, and clean
               code architecture.
             </p>
@@ -65,7 +65,7 @@ function Home() {
               components matching, including menu browsing, cart functionality
               using{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
-                React js, Tailwind Css, JavaScript
+                React.js, Express.js, MySQL, Tailwind Css, JavaScript
               </span>{" "}
               and specialties include quick{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">

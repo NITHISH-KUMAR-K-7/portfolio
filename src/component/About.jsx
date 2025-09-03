@@ -48,9 +48,9 @@ function About() {
           <span className="font-bold lg:text-xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
             Nithish kumar
           </span>{" "}
-          from Dindigul,TamilNadu, a Passionate frontend developer who loves
+          from Dindigul,TamilNadu, a Passionate full stack developer & frontend developer who loves
           crafting clean, responsive, and interactive user interfaces. I'm
-          skilled in modern frontend technologies like React.js, Tailwind CSS,
+          skilled in modern full stack technologies like React.js, Express.js, Node.js, MySQL, Tailwind CSS,
           and JavaScript, and I’m always eager to learn and adapt to new tools
           and frameworks.
         </p>

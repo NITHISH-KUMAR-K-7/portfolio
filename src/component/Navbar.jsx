@@ -118,7 +118,7 @@ function Navbar() {
                    group-hover:from-blue-500 
                    group-hover:to-blue-900"
                 >
-                  Download Resume
+                  Download Resume 
                 </span>
               </a>
             </li>

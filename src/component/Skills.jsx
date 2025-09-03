@@ -1,11 +1,15 @@
 import React from 'react'
 import { FaReact } from "react-icons/fa";
+import { SiExpress } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
-import { SiMysql } from "react-icons/si";import { VscVscode } from "react-icons/vsc";
+import { SiMysql } from "react-icons/si";
+import { SiPostman } from "react-icons/si";
+import { VscVscode } from "react-icons/vsc";
 import { FaGithub } from "react-icons/fa";
 
 
@@ -16,6 +20,14 @@ function Skills() {
       {
         Icon: <FaReact size={50} />,
         Name: "React Js",
+      },
+      {
+        Icon: <SiExpress size={50} />,
+        Name: "Express Js",
+      },
+      {
+        Icon: <FaNodeJs size={50} />,
+        Name: "Node Js",
       },
       {
         Icon: <IoLogoJavascript size={50} />,
@@ -40,6 +52,10 @@ function Skills() {
       {
         Icon: <SiMysql size={50} />,
         Name: "MY SQL",
+      },
+      {
+        Icon: <SiPostman size={50} />,
+        Name: "Postman",
       },
       {
         Icon: <VscVscode size={50} />,

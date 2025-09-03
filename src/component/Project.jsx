@@ -5,6 +5,22 @@ function Project() {
 
     const All_Project = [
       {
+        ProjectName: "Portfolio",
+        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/portfolio",
+      },
+      {
+        ProjectName: "Crud Application",
+        SkillsUsed: "React Js, Express Js, MySQL, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/crud_operation",
+      },
+      {
+        ProjectName: "Login Signup Form",
+        SkillsUsed: "React Js, Express Js, MySQL, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/login-form",
+      },
+
+      {
         ProjectName: "Weather-Report",
         SkillsUsed: "React Js, Tailwind CSS, JavaScript",
         ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Weather-Report",
@@ -28,11 +44,6 @@ function Project() {
         ProjectName: "Calculator",
         SkillsUsed: "React Js, Tailwind CSS, JavaScript",
         ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Calculator",
-      },
-      {
-        ProjectName: "Portfolio",
-        SkillsUsed: "React Js, Tailwind CSS, JavaScript",
-        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/portfolio",
       },
     ];
   return (
