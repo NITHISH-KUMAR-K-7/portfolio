@@ -8,6 +8,7 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
+import { SiXampp } from "react-icons/si";
 import { SiPostman } from "react-icons/si";
 import { VscVscode } from "react-icons/vsc";
 import { FaGithub } from "react-icons/fa";
@@ -52,6 +53,10 @@ function Skills() {
       {
         Icon: <SiMysql size={50} />,
         Name: "MY SQL",
+      },
+      {
+        Icon: <SiXampp size={50} />,
+        Name: "Xampp",
       },
       {
         Icon: <SiPostman size={50} />,
