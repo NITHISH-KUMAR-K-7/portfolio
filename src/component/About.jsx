@@ -48,11 +48,13 @@ function About() {
           <span className="font-bold lg:text-xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
             Nithish kumar
           </span>{" "}
-          from Dindigul,TamilNadu, a Passionate full stack developer & frontend developer who loves
-          crafting clean, responsive, and interactive user interfaces. I'm
-          skilled in modern full stack technologies like React.js, Express.js, Node.js, MySQL, Tailwind CSS,
-          and JavaScript, and I’m always eager to learn and adapt to new tools
-          and frameworks.
+          from Dindigul,TamilNadu, Enthusiastic and detail-oriented MERN Stack
+          Developer with a strong foundation in JavaScript, React.js, Node.js,
+          Express.js, and MongoDB. Passionate about building responsive,
+          user-friendly web applications and writing clean, efficient code.
+          Quick to learn new technologies, adaptable in team environments, and
+          dedicated to creating innovative digital solutions that enhance user
+          experience.
         </p>
 
         <div className="flex justify-center">
@@ -80,7 +82,7 @@ function About() {
 
         <Skills />
       </div>
-        <Footer/>
+      <Footer />
     </>
   );
 }

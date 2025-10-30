@@ -104,7 +104,7 @@ function Navbar() {
             </Link>
             <li className="group flex items-center gap-1 text-xl mb-5 lg:mb-0 cursor-pointer">
               <a
-                href="/Nithish_kumar_K.doc.pdf"
+                href="/Nithish_kumar.pdf"
                 download
                 onClick={HandleClick}
                 className="group flex items-center gap-1 text-xl mb-5 lg:mb-0 cursor-pointer"
@@ -118,7 +118,7 @@ function Navbar() {
                    group-hover:from-blue-500 
                    group-hover:to-blue-900"
                 >
-                  Download Resume 
+                  Download Resume
                 </span>
               </a>
             </li>

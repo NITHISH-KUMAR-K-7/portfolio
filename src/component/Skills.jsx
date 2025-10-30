@@ -2,6 +2,7 @@ import React from 'react'
 import { FaReact } from "react-icons/fa";
 import { SiExpress } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
+import { SiMongodb } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaHtml5 } from "react-icons/fa";
@@ -29,6 +30,10 @@ function Skills() {
       {
         Icon: <FaNodeJs size={50} />,
         Name: "Node Js",
+      },
+      {
+        Icon: <SiMongodb size={50} />,
+        Name: "MongoDB",
       },
       {
         Icon: <IoLogoJavascript size={50} />,

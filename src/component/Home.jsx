@@ -34,7 +34,7 @@ function Home() {
             </span>
           </h1>
           <h3 className=" mt-2 text-2xl font-medium text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
-           Full stack Developer | Frontend Developer
+            MERN Stack Developer | Frontend Developer
           </h3>
           <button
             onClick={handleHireMeClick}
@@ -54,9 +54,10 @@ function Home() {
           </h1>
           <div className="grid w-2/3 mt-10 mx-auto mb-30">
             <p className="text-xl font-medium text-gray-600 mb-3">
-              Developed full stack projects using React.js, Express.js, MySQL Database and 5+ frontend React.js applications using Tailwind CSS,
-              focusing on responsive design, performance optimization, and clean
-              code architecture.
+              Developed full stack projects using React.js, Express.js, Node.js,
+              MongoDB, MySQL Database and 5+ Full Stack, Mern Stack, frontend
+              applications, Tailwind CSS, with responsive design, performance
+              optimization, and clean code architecture.
             </p>
             <p className="text-xl font-medium text-gray-600 ">
               Created a featuring interactive gameplay logic, state management
@@ -65,7 +66,7 @@ function Home() {
               components matching, including menu browsing, cart functionality
               using{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">
-                React.js, Express.js, MySQL, Tailwind Css, JavaScript
+                MongoDB, Express.js, React.js, Node.js, Tailwind Css, JavaScript
               </span>{" "}
               and specialties include quick{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-900">

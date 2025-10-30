@@ -11,13 +11,15 @@ function Project() {
       },
       {
         ProjectName: "Crud Application",
-        SkillsUsed: "React Js, Express Js, MySQL, Tailwind CSS, JavaScript",
-        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/crud_operation",
+        SkillsUsed:
+          "MongoDB, Express Js, React Js, Node Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Crud",
       },
       {
-        ProjectName: "Login Signup Form",
-        SkillsUsed: "React Js, Express Js, MySQL, Tailwind CSS, JavaScript",
-        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/login-form",
+        ProjectName: "Signup-Login",
+        SkillsUsed:
+          "MongoDB, Express Js, React Js, Node Js, Tailwind CSS, JavaScript",
+        ProjectLink: "https://github.com/NITHISH-KUMAR-K-7/Signup-Login",
       },
 
       {
